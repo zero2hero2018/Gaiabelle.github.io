@@ -1,0 +1,154 @@
+#nav {
+  width: auto;
+	float: right;
+	margin: 0 0 3em 0;
+	padding: 0;
+	list-style: none;
+  border-radius: 15px;
+	background-color: black;
+	border-bottom: 1px #ccc;
+	border-top: 1px #ccc;
+  font-family: 'Great Vibes', cursive;
+  font-size: 27px;
+}
+
+
+
+
+#nav li {
+
+  float: right;
+
+}
+#nav li a {
+  display: block;
+	padding: 8px 15px;
+	text-decoration: none;
+	font-weight: bold;
+	color: purple;
+
+}
+#nav li a:hover {
+  color: black;
+  background-color: purple;
+  border-radius: 16px;
+ }
+
+body {
+  color: purple;
+  align-content: center;
+  font-size: 32px;
+  background-color: black;
+  font-family: 'Great Vibes',cursive;
+  text-shadow: 12px 12px 12px #000000;
+
+
+}
+
+#aboutmeh2 {
+  line-height: 100px;
+  font-family: 'Great Vibes', cursive;
+  font-size: 27px;
+  text-shadow: 12px 12px 12px #000000;
+  color: red;
+  text-decoration: underline;
+  text-decoration-color: purple;
+}
+
+.body {
+  font-size: 20px;
+}
+
+
+
+#applicationh1 {
+  padding-left: 525px;
+  font-family: 'Great Vibes', cursive;
+
+}
+
+#aboutmeh1 {
+  padding-left: 325px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 75px;
+  color: red;
+  font-family: 'Great Vibes', cursive;
+  text-shadow: 12px 12px 12px #000000;
+  padding-left: 20px;
+}
+
+h2 {
+  align-content: center;
+
+}
+
+#aboutmeh2 {
+  font-size: 27px;
+}
+
+#form {
+  padding-left: auto;
+  text-shadow: 12px 12px 12px #000000;
+
+
+}
+
+#data {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Sigmar One', cursive;
+  text-shadow: 12px 12px 12px #000000;
+
+}
+
+#purple {
+  color: purple;
+}
+
+.center {
+  display: block;
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 27%
+
+}
+.button {
+  display: block;
+  text-align: center;
+}
+
+.index {
+  line-height: 60px;
+  indent: left;
+  text-align: center;
+  font-size: 75px;
+  padding-left: 150px;
+  padding-right: 150px;
+  font-family: 'Great Vibes', cursive;
+  color: white;
+}
+
+.text {
+  font-size: 27px;
+  color: white;
+  text-shadow: 12px 12px 12px #000000;
+  font-family: 'Kaushan Script', cursive;
+}
+button {
+  height: 35px;
+  width: 250px;
+  border-radius: 15px;
+  color: black;
+  background-color: purple;
+  border-color: purple;
+  border-thickness: 50px;
+}
+
+footer {
+  font-size: 25px;
+  color: purple;
+}
